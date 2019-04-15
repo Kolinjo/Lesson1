@@ -7,6 +7,7 @@ public class Main
 	{
 		System.out.println("June was here!");
 		System.out.println("Marko was here!");
+		System.out.println("Old man was here!");
 
 	}
 
